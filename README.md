@@ -117,3 +117,68 @@ Additional behavioral features were created.
 ```text
 Tech_to_Screen_Ratio =
 Technology_Usage_Hours / Screen_Time_Hours
+## Machine Learning Models
+
+The following models were evaluated:
+
+- Random Forest
+- Gradient Boosting
+- XGBoost
+- Multilayer Perceptron (MLP)
+
+## Deep Learning Models
+
+The following Deep Learning architectures were evaluated:
+
+- LSTM
+- GRU
+- LSTM with Batch Normalization
+- Deeper Neural Network
+
+## Results
+
+### Best Machine Learning Model
+XGBoost achieved approximately 99% accuracy and was identified as the best Machine Learning model.
+
+### Best Deep Learning Model
+The Deeper Neural Network achieved approximately 99% accuracy and was identified as the best Deep Learning model.
+
+Model performance was evaluated using:
+
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- Confusion Matrix
+- ROC-AUC
+
+## Technologies Used
+
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- XGBoost
+- TensorFlow / Keras
+
+## Key Findings
+
+The project demonstrates the potential of behavioral and lifestyle data for mental-health classification. Factors such as technology usage, screen time, sleep, social media usage, and physical activity were analyzed to identify patterns associated with mental-health categories.
+
+## Future Work
+
+- Expand the dataset with real-time data
+- Explore additional ensemble methods
+- Improve model performance
+- Investigate real-world applications
+
+## Achievement
+
+🏆 **2nd Place – Team No. 014**
+
+## Disclaimer
+
+This project is intended for educational and research purposes. Model predictions should not be considered medical diagnoses or a replacement for professional mental-health assessment.
