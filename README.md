@@ -117,6 +117,9 @@ Additional behavioral features were created.
 ```text
 Tech_to_Screen_Ratio =
 Technology_Usage_Hours / Screen_Time_Hours
+Social_to_Tech_Ratio =
+Social_Media_Usage_Hours / Technology_Usage_Hours
+
 ## Machine Learning Models
 
 The following models were evaluated:
